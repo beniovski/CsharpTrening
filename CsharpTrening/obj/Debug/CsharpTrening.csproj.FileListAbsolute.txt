@@ -1,1 +1,6 @@
 c:\users\daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\bin\Debug\CsharpTrening.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\bin\Debug\CsharpTrening.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\bin\Debug\CsharpTrening.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.pdb

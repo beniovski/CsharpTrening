@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using CsharpTrening.Models;
@@ -11,8 +12,9 @@ namespace CsharpTrening
     {
         static void Main(string[] args)
         {
-            Race race = new Race();
-            race.Begin();
+          
+          Asynchronus asynchronus = new Asynchronus();
+            asynchronus.Test().Wait();
 
             Console.ReadKey();
         }

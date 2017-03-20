@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel;
 
 namespace CsharpTrening.Models
 {
-    class User
+    public class User
     {
+     
+
         public string Email { get; private set; }
 
         public string Password { get; private  set; }
@@ -71,7 +74,7 @@ namespace CsharpTrening.Models
         {
             if (string.IsNullOrWhiteSpace(password))
             {
-                throw new Exception("Email is incorect");
+                throw new Exception("Password is incorect");
             }
             if (password == Password)
             {

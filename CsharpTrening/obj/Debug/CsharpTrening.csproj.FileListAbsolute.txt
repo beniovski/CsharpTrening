@@ -4,3 +4,5 @@ C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrenin
 C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.exe
 C:\Users\Daniel\documents\visual studio 2015\Projects\CsharpTrening\CsharpTrening\obj\Debug\CsharpTrening.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CsharpTrening\CsharpTrening\bin\Debug\nunit.framework.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\CsharpTrening\CsharpTrening\bin\Debug\nunit.framework.xml
